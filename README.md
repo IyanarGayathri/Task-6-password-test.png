@@ -1,6 +1,5 @@
 # Task 6 – Password Strength Evaluation
 
-## Cyber Security Internship
 
 ## Objective
 The objective of this task is to understand what makes a password strong and to evaluate password strength using free online password strength checker tools.
